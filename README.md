@@ -1,16 +1,12 @@
-# learn_square
+#Qiz App
 
-A new Flutter project.
 
-## Getting Started
+UI of the app :
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/100893891/207826012-dedb7fde-7f54-41e4-945e-834e74b537b5.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/100893891/207826212-aa9f17bd-a3d1-4cf6-91b0-a8692365f48d.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/100893891/207826429-ad638a20-6db9-4f5c-8ee9-d5a5d1a8d15c.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/100893891/207826631-e64555c5-d9a7-4c78-bb9f-c545acb1877b.png)
